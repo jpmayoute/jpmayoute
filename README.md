@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate with **company in order to acquire new skills to achieve my goals and contribute significantly to the success of the company that will trust me**
 
-- 👨‍💻 All of my projects are available at [jpmayoute]
+- 👨‍💻 All of my projects are available at [jpmayoute.github]
 
 - 📫 How to reach me **jeanphilippe.mayoute@gmail.com**
 

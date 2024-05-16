@@ -13,11 +13,11 @@
 
 - 👯 I’m looking to collaborate with **company in order to acquire new skills to achieve my goals and contribute significantly to the success of the company that will trust me**
 
-- 👨‍💻 All of my projects are available at [jpmayoute.github]
+- 👨‍💻 All my projects are available on my portfolio: jpmayoute.github.io 
 
 - 📫 How to reach me **jeanphilippe.mayoute@gmail.com**
 
-- 📄 Know about my experiences [jpmayoute.github.io (cv)](jpmayoute.github.io (cv))
+- 📄 Know about my experiences are available on my portfolio: jpmayoute.github.io section CV
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

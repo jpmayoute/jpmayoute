@@ -7,17 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **small projects related to my training**
+- 🔭 I’m currently working on **differents Web projects related to my training**
 
 - 🌱 I’m currently learning **the symfony frimework in training**
 
-- 👯 I’m looking to collaborate with **company in order to acquire new skills to achieve my goals and contribute significantly to the success of the company that will trust me**
-
-- 👨‍💻 All my projects are available on my portfolio: jpmayoute.github.io 
+- 👯 I’m looking to collaborate with **company in order to contribute significantly to the success of the company that will trust me**
 
 - 📫 How to reach me **jeanphilippe.mayoute@gmail.com**
 
-- 📄 Know about my experiences are available on my portfolio: jpmayoute.github.io section CV
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

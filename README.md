@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **the symfony frimework in training**
 
-- 👯 I’m looking to collaborate with **company in order to contribute significantly to the success of the company that will trust me**
+- 👯 I’m looking to collaborate with **company in order to Afficher tous les posts de tous les auteurs via URL = /author/list et faire un lien vers les posts (si des posts existent pour un auteur). significantly to the success of the company that will trust me**
 
-- 📫 How to reach me **jeanphilippe.mayoute@gmail.com**
+- 📫 How to reach me **jeanphilippe.mayoute@gmail.com / 06 63 78 96 88**
 
 
 <h3 align="left">Connect with me:</h3>
